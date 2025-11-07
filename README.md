@@ -262,9 +262,11 @@ SVM achieved the **best performance** (~88% accuracy).
 ## 🌐 Connect & Acknowledge
 
 **Author:** [Tanish Sarkar](https://github.com/)  
-**Professor:** Dr. Deepak Kumar Verma  
-**Department:** Computer Engineering  
-**Institution:** Faculty of Engineering and Technology
+**Socials:** 
+1. [LinkedIn](https://www.linkedin.com/in/tanish-sarkar/)
+2. [Twitter](https://x.com/sarkar19915)
+3. [Kaggle](https://www.kaggle.com/tanish2808)            
+
 
 ---
 
