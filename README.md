@@ -98,12 +98,14 @@ The dataset contains three CSV files:
 ### 6.1 Accident Severity Distribution
 - Most accidents are **slight**, while **fatal** accidents are least frequent.  
 - Class imbalance observed — important consideration for modeling.
+  
  <img src="https://github.com/Tanish-Sarkar/Road-Accident-Analysis-and-Severity-Prediction/blob/main/outputs/1.png" alt="" width="500" height="400">
  <img src="https://github.com/Tanish-Sarkar/Road-Accident-Analysis-and-Severity-Prediction/blob/main/outputs/2.png" alt="" width="500" height="400">
 
 ### 6.2 Temporal Analysis
 - Accidents peak on **weekends** and **daytime hours**.  
 - Seasonal spikes during **monsoon** and **festival months**.
+
  <img src="https://github.com/Tanish-Sarkar/Road-Accident-Analysis-and-Severity-Prediction/blob/main/outputs/3.png" alt="" width="500" height="400">
  <img src="https://github.com/Tanish-Sarkar/Road-Accident-Analysis-and-Severity-Prediction/blob/main/outputs/4.png" alt="" width="500" height="400">
  <img src="https://github.com/Tanish-Sarkar/Road-Accident-Analysis-and-Severity-Prediction/blob/main/outputs/5.png" alt="" width="500" height="400">
@@ -112,6 +114,7 @@ The dataset contains three CSV files:
 - Clear weather dominates in frequency but not necessarily safety.  
 - **Night/no-light conditions** increase fatal severity.  
 - **Wet surfaces** lead to fewer but more severe accidents.
+  
  <img src="https://github.com/Tanish-Sarkar/Road-Accident-Analysis-and-Severity-Prediction/blob/main/outputs/6.png" alt="" width="500" height="400">
  <img src="https://github.com/Tanish-Sarkar/Road-Accident-Analysis-and-Severity-Prediction/blob/main/outputs/7.png" alt="" width="500" height="400">
  <img src="https://github.com/Tanish-Sarkar/Road-Accident-Analysis-and-Severity-Prediction/blob/main/outputs/8.png" alt="" width="500" height="400">
@@ -120,6 +123,7 @@ The dataset contains three CSV files:
 - **Single carriageways** and **urban areas** have higher accident frequency.  
 - **Rural roads** have fewer but more fatal outcomes.  
 - **High speed limits** correlate with increased severity.
+  
  <img src="https://github.com/Tanish-Sarkar/Road-Accident-Analysis-and-Severity-Prediction/blob/main/outputs/9.png" alt="" width="500" height="400">
  <img src="https://github.com/Tanish-Sarkar/Road-Accident-Analysis-and-Severity-Prediction/blob/main/outputs/10.png" alt="" width="500" height="400">
  <img src="https://github.com/Tanish-Sarkar/Road-Accident-Analysis-and-Severity-Prediction/blob/main/outputs/11.png" alt="" width="500" height="400">
@@ -128,6 +132,7 @@ The dataset contains three CSV files:
 ### 6.5 Geospatial Hotspot Analysis
 - Heatmaps show dense clusters near **metro cities**.  
 - **National highways** exhibit continuous high accident density.
+  
  <img src="https://github.com/Tanish-Sarkar/Road-Accident-Analysis-and-Severity-Prediction/blob/main/outputs/13.png" alt="" width="500" height="400">
 
 ---
@@ -197,6 +202,7 @@ The dataset contains three CSV files:
 |--------|-----------|------------|---------|-----------|
 | Decision Tree | ~85% | 0.84 | 0.83 | 0.83 |
 | SVM (RBF) | ~88% | 0.87 | 0.86 | 0.86 |
+
   <img src="https://github.com/Tanish-Sarkar/Road-Accident-Analysis-and-Severity-Prediction/blob/main/outputs/14.png" alt="" width="500" height="400">
   <img src="https://github.com/Tanish-Sarkar/Road-Accident-Analysis-and-Severity-Prediction/blob/main/outputs/15.png" alt="" width="500" height="400">
 
